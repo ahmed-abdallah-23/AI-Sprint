@@ -109,14 +109,14 @@ gantt
 
 ## 1.3 Task Assignment & Roles
 
-> Roles below are proposed and should be confirmed by the team. GitHub usernames marked `@username` still need to be filled in.
+> Roles below are proposed and should be confirmed by the team. The GitHub username marked `@username` still needs to be filled in.
 
 | # | Member | GitHub | Role | Responsibilities |
 |---|---|---|---|---|
 | 1 | Ahmed Mohammed Abdullah | @ahmed-abdallah-23 | Team Lead / Backend | Project coordination, Express API, authentication, MongoDB models |
-| 2 | Ibrahim Abdelhamid Ibrahim | @username | Frontend | React components, Bootstrap UI, task board |
-| 3 | Youssef Walid Salah | @username | AI & Prompt Engineering | Prompt design, AI API integration, output parsing |
-| 4 | Omar Mossad Abdelhamid | @username | Documentation & QA | Requirements, diagrams, test cases, user manual, README |
+| 2 | Ibrahim Abdelhamid Ibrahim | @ibrahim3bdelhamid | Frontend | React components, Bootstrap UI, task board |
+| 3 | Youssef Walid Salah | @yousefeldairy318-ui | AI & Prompt Engineering | Prompt design, AI API integration, output parsing |
+| 4 | Omar Mossad Abdelhamid | @omarmossadsaad | Documentation & QA | Requirements, diagrams, test cases, user manual, README |
 | 5 | Yousef Nasser Sokkar | @username | Frontend / Integration | Dashboard, connecting frontend to API, API testing |
 
 **Team rules:**
@@ -317,6 +317,6 @@ Initial ideas for improving the project (to be updated after lecturer feedback):
 
 # Submission Checklist
 
-- [ ] Confirm roles and add the remaining GitHub usernames in Section 1.3
+- [ ] Confirm roles and add the remaining GitHub username in Section 1.3
 - [ ] Add lecturer feedback (Section 2.4) and grading criteria (Section 2.6) when available
 - [ ] Upload this file to `docs/` in the GitHub repository
